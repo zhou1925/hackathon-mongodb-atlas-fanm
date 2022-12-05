@@ -1,0 +1,16 @@
+export const countriesOptions = {
+    'Argentina': 'AR',
+    'Australia': 'AU',
+    'Brazil': 'BR',
+    'Canada': 'CA',
+    'Chile': 'CL',
+    'Colombia': 'CO',
+    'Germany': 'DE',
+    'France': 'FR',
+    'Italy': 'IT',
+    'Korea': 'KR',
+    'Mexico': 'MX',
+    'Peru': 'PE',
+    'United States': 'US',
+    'Ukraine': 'UA',
+}
